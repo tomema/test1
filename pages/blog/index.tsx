@@ -27,7 +27,7 @@ const Blog: React.FunctionComponent<BlogProps> = (props) => {
   return (
     <AppWrapper title="BSC Predict - Blog" description="Binance Smart Chain (BSC) Prediction Markets Blog">
       <div className="space-y-4 p-6" title={props.title} >
-        <p className="text-4xl">BSC Prediction Market Insights &amp; Analysis</p>
+        <p className="text-4xl">TEST 1 Bsite &amp; Analysis</p>
         <div className="divider" />
         <div className="flex space-x-4 items-center">
           <div className="text-xl font-bold">Tags</div>
