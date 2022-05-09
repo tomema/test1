@@ -47,7 +47,7 @@ class MyDocument extends Document {
           <meta name="msapplication-TileColor" content="#da532c" />
           <meta name="theme-color" content="#ffffff" />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@bscpredict" />
+          <meta name="twitter:site" content="@twitter" />
           <meta name="twitter:title" content="BSC Predict" />
           <meta name="twitter:description" content="Binance Smart Chain (BSC) Prediction Markets" />
           <meta name="twitter:image" content="https://i.ibb.co/DQPh7JM/android-chrome-192x192.png" />
